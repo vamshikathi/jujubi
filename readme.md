@@ -2,7 +2,8 @@ ML model GKE Demo
 ======
 Creating a GKE cluster, deploying the "ich" ML model on it and running the gRPC client
 
-##Requirements##
+
+##Requirements
 
 - python3  
 - pip3  
